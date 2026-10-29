@@ -6,7 +6,7 @@
 }
 
 body {
-    background: #0b0915;
+    background: #2f2b43;
     color: white;
     font-family: Arial, sans-serif;
 }
@@ -19,11 +19,11 @@ header {
 }
 
 header h2 {
-    color: #c084fc;
+    color: #9d67d2;
 }
 
 nav a {
-    color: white;
+    color: rgb(208, 200, 200);
     text-decoration: none;
     margin-left: 20px;
 }
@@ -39,7 +39,7 @@ nav a {
 }
 
 .principal span {
-    color: #c084fc;
+    color: #84fce2;
 }
 
 .principal p {
@@ -49,8 +49,8 @@ nav a {
 
 .boton {
     display: inline-block;
-    background: #8b5cf6;
-    color: white;
+    background: #dfd4f8;
+    color: rgb(31, 25, 25);
     padding: 12px 22px;
     border-radius: 8px;
     text-decoration: none;
