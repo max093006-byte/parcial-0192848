@@ -1,0 +1,1 @@
+# Esta pagina es la base: https://www.figma.com/community/file/1125959482867271805/serendale-ai-ai-based-blockchain-hero-exploration?q_id=fa2df912-c710-48ee-8137-144b72976206
