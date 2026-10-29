@@ -6,8 +6,13 @@
 }
 
 body {
-    background: #2f2b43;
-    color: white;
+    background-image: url(../img/fondo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    color: rgb(17, 18, 34);
     font-family: Arial, sans-serif;
 }
 
