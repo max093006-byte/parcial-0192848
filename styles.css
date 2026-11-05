@@ -4,9 +4,10 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 main {
-    padding-top: 70px;
+    width: 90%;
+    margin: 0 auto;
+    padding: 100px 0;
 }
 
 body {
@@ -41,24 +42,6 @@ header {
     box-shadow: 0 5px 20px rgba(115, 114, 114, 0.25);
 
     backdrop-filter: blur(12px);
-}
-
-.marca {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-}
-
-.marca img {
-    width: 45px;
-    height: 45px;
-    object-fit: cover;
-    border-radius: 25%;
-}
-
-.marca h2 {
-    color: #8c8e9f;
-    white-space: nowrap;
 }
 
 nav a {
